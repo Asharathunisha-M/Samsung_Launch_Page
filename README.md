@@ -43,7 +43,7 @@ Samsung_Launch_Page/
 Live Demo
 
 View the live version of the landing page here:
-Samsung Galaxy S25 Ultra Launch Page
+https://asharathunisha-m.github.io/Samsung_Launch_Page/
 
 How to Use
 
